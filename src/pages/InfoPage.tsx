@@ -56,7 +56,7 @@ const InfoPage: React.FC = () => {
                </p>
                <p>
                  You also have a chance to get a random surprise reward: 
-                 either <span className="font-bold text-sky-400">$WCT</span> or <span className="font-bold text-purple-400">$DEGEN</span>!
+                 either <span className="font-bold text-green-400">$ETHIX</span> or <span className="font-bold text-sky-400">$GoodDollar</span>!
                </p>
                <p>
                  <span className="font-bold text-yellow-400">$CHP</span> is a non-transferable token between players, but can be swapped SOON.

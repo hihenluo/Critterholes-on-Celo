@@ -19,9 +19,9 @@ createAppKit({
   projectId,
   metadata: {
     name: "Critter Hole",
-    description: "Critter Hole Game on Base",
-    url: "https://assets-dhl.pages.dev/",
-    icons: ["https://assets-dhl.pages.dev//logo.png"],
+    description: "Critter Hole Game on Celo",
+    url: "https://critterholes.xyz/",
+    icons: ["https://critterholes.xyz//logo.png"],
   },
   features: {
     history: false,
