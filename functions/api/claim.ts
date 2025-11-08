@@ -72,7 +72,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     let randomAmount;
 
     if (isWCT) {
-      randomAmount = 0.05 + Math.random() * (0.1 - 0.05);
+      randomAmount = 0.05 + Math.random() * (0.05 - 0.01);
     } else {
       randomAmount = 3 + Math.random() * 2;
     }
