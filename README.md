@@ -42,7 +42,7 @@ Each critter type gives a different score. The faster your reaction, the more yo
 Your score determines the amount of tokens you earn.
 
 - 🟡 **$CHP** — The main in-game token, earned from your score.  
-- 🔵 **$WCT** / 🟣 **$DEGEN** — Random surprise rewards!  
+- 🔵 **$ETHIX** / 🟣 **$G** — Random surprise rewards!  
 - ⚠️ **$CHP** is currently non-transferable between players, but a swap feature is **coming soon**.
 
 Play, earn, and collect tokens in every round!
