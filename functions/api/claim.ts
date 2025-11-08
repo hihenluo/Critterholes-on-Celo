@@ -68,7 +68,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
 
     const isWCT = Math.random() < 0.5;
     const rewardTokenAddress = isWCT ? ETHIX_TOKEN_ADDRESS : G_TOKEN_ADDRESS;
-    const rewardTokenSymbol = isWCT ? "WCT" : "DEGEN";
+    const rewardTokenSymbol = isWCT ? "ETHIX" : "G";
     let randomAmount;
 
     if (isWCT) {
