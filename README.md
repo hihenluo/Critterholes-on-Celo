@@ -69,8 +69,8 @@ You must own a **Hammer NFT** to play. Mint one on the **Mint Page** using the `
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/hihenluo/Critterholes-on-Celo.git
-cd Critterholes-on-Celo
+git clone https://github.com/hihenluo/Critterholes.git
+cd Critterholes
 ```
 
 ### 2️⃣ Install Dependencies
