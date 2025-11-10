@@ -23,7 +23,7 @@ const BottomNav: React.FC = () => {
         </NavLink>
         
         <NavLink to="/user" className={navLinkClass}>
-          <IoPerson size={28} />
+          <IoPerson size={29} />
           <span className="text-xs font-bold">Profile</span>
         </NavLink>
         
